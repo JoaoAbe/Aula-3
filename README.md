@@ -5,3 +5,5 @@ Professor Caio joia
 
 Nova linha do tempo
 Edit 2
+
+Bug fix 1
